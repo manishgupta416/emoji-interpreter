@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 15px 54px;
+  cursor: pointer;
+}
+
+h1,
+h2 {
+  color: blue;
+}
+
+input:hover {
+  border: 2px solid blue;
+}
